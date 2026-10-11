@@ -1,0 +1,7 @@
+﻿out/
+*.class
+*.db-journal
+.vscode/
+
+students.db
+
